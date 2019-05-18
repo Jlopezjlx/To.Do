@@ -1,0 +1,11 @@
+{
+    "title" : "", 
+    "dates": [{
+        "startdate": "",
+        "duedate": ""
+    }],
+    "description": "",
+    "priority": "",
+    "state": "",
+    "porcentage": ""
+}
