@@ -4,6 +4,6 @@ services:
     container_name: 'To.Do.DB'
     image: mongo
     ports:
-      - '27017:2017'
+      - '27017:27017'
       - '8081:8081'
-    restar: always  
+    restart: always  
