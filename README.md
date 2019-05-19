@@ -7,7 +7,7 @@ The app is tend to be used in the terminal, so people who like to be inmersed in
 ## Requirements 
 
 1. [Python 3 or upper](https://www.python.org/)
-2. [MongoBD](https://www.mongodb.com/)
+2. [MongoDB](https://www.mongodb.com/)
 3. [Docker](https://www.docker.com/get-started)
 
 ## Using Docker
